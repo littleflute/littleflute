@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎光临[小笛乐园]
+#[V0.0.2](https://github.com/littleflute/littleflute/edit/master/README.md)
 
-You can use the [editor on GitHub](https://github.com/littleflute/littleflute/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+小笛乐园是由littleflute(小笛）在Github上建立的个人学习项目。
+欢迎各方人士前来交流。
+[项目主页]（https://littleflute.github.io/littleflute/docs）
 
 ### Markdown
 
