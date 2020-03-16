@@ -1,5 +1,5 @@
 ## 欢迎光临[小笛乐园] <button id = "id_btn_4_blApp">+blApp</button> <button id = "id_btn_4_littleflute_plx">+plx</button>
-##[v0.0.35*](https://github.com/littleflute/littleflute/edit/master/README.md) [me](https://littleflute.github.io/littleflute/)
+##[v0.0.41*](https://github.com/littleflute/littleflute/edit/master/README.md) [me](https://littleflute.github.io/littleflute/) [weixin](https://littleflute.github.io/weixin/)
 ## [Corvallis/2019/02/08](Corvallis/2019/02/08)
 ## [docs](https://littleflute.github.io/littleflute/docs/)  
 ## [SongLists](SongLists)
