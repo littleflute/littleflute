@@ -1,5 +1,6 @@
 ## 欢迎光临[小笛乐园] <button id = "id_btn_4_blApp">+blApp</button> <button id = "id_btn_4_littleflute_plx">+plx</button>
-##[v0.0.52*](https://github.com/littleflute/littleflute/edit/master/README.md) [me](https://littleflute.github.io/littleflute/) [weixin](https://littleflute.github.io/weixin/)
+##[v0.0.53*](https://github.com/littleflute/littleflute/edit/master/README.md) [me](https://littleflute.github.io/littleflute/) [weixin](https://littleflute.github.io/weixin/)
+## [#【笛台故视】](https://mp.weixin.qq.com/mp/videochannel_profile_page?biz_username=gh_479895acb35a&sessionid=svr_83bf444fa33&__biz=MzA5MzMwNTc0Ng==&scene=136&subscene=&channel_session_id=#wechat_redirect)
 ### [17ting](https://github.com/littleflute/17ting) [tdt](https://github.com/littleflute/tdt) [kdt](https://github.com/littleflute/kdt) [talent](https://github.com/littleflute/talent) [The-Voice](https://github.com/littleflute/The-Voice)
 ## [https://littleflute.github.io/v20200829/](https://littleflute.github.io/v20200829/)
 ## [Corvallis/2019/02/08](Corvallis/2019/02/08)
